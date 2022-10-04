@@ -8,3 +8,5 @@ git push -- To send all archives in commit to cloud git
 git remote add origin -- <link>
 
 NEW LINE
+
+Para trocar as versões do código : git reset --hard
