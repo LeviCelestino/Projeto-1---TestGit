@@ -6,3 +6,5 @@ git add . - To add All archives of your paste
 git commit -m "Comit Name"
 git push -- To send all archives in commit to cloud git
 git remote add origin -- <link>
+
+NEW LINE
